@@ -1,1 +1,22 @@
+h2 {
+font-size: 50px;
+text-align: center;
+color: white;
+}
+
+h1 {
+text-align: center;
+color:white;
+font-size: 100px;
+}
+
+body {
+background-image: url(https://orig00.deviantart.net/b430/f/2016/364/9/b/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter-da4f4ln.png);
+background-size: 100%;
+ background-attachment: fixed;
+}
+
+h3 {
+color: white;
+}
 
