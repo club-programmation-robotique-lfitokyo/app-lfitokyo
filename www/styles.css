@@ -1,22 +1,23 @@
 h2 {
 font-size: 18px;
 text-align: center;
-color: black;
+color: white;
 }
 
 h1 {
 text-align: center;
-color:black;
+color:white;
 font-size: 25px;
 }
 
 body {
 /*background-image: url(https://orig00.deviantart.net/b430/f/2016/364/9/b/wallpapers___yellow_abstract_polygons__black_bg__by_kaminohunter-da4f4ln.png);*/
-background-size: 100%;
+background-image: url(https://frenchmac-frenchmac1.netdna-ssl.com/wp-content/uploads/2014/04/Android-Artwork-iphone-5-wallpaper-ilikewallpaper_com.jpg);
+ background-size: 100%;
  background-attachment: fixed;
 }
 
 h3 {
-color: black;
+color: white;
 }
 
